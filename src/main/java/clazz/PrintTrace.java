@@ -13,9 +13,7 @@ public class PrintTrace {
         byte[] byte3 = new byte[2 * _1M]; printTrack();
         byte[] byte4 = new byte[2 * _1M]; printTrack();
         byte[] byte5 = new byte[2 * _1M]; printTrack();
-
         byte[] byte6 = new byte[5 * _1M]; printTrack();
-
         byte[] byte7 = new byte[2 * _1M]; printTrack();
     }
 
