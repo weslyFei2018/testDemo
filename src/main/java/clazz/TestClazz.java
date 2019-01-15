@@ -7,6 +7,10 @@ public class TestClazz {
 
     public static void main(String[] args) throws Exception{
         try {
+
+            String a ="https://api.startappservice.com/1.1/management/bulk/campaigns?partner=187274797&token=d3dc02f55038f3f8899d94d5b6595bbf&segId=211078625&os=0&countries=US,JP,NZ,AU,CA,DE,FR,GB,ZA,HK,SG,TW,SA,RU,PA,NL,TH,BR,IT,IL,ES,CR,AE,CL,TR,KW,ID,AR,VN,CO,MX,PE,UA,EC,DO,KZ,IN,MA,MY,PK,CN&bidType=CPI&minPayoutCPI=0.1";
+            System.out.println(a.length());
+
             Class<?> clazz = Class.forName("clazz.Test01");
             //获取本类的所有方法，存放入数组
             Method[] methods = clazz.getDeclaredMethods();////获取自身所有的方法(private、public、protected，和访问权限无关)，不包括继承的
