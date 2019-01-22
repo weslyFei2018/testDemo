@@ -1,4 +1,4 @@
-package clazz;
+package com.ihandy.adcaffe.testDemo.clazz;
 
 public class PrintTrace {
     private static final int _1M = 1024 * 1024;

@@ -1,4 +1,4 @@
-package abstractclass;
+package com.ihandy.adcaffe.testDemo.abstractclass;
 
 
 public class Test {
@@ -15,6 +15,17 @@ public class Test {
             System.out.println(a.byteValue());
         }catch (Exception e){
             e.printStackTrace();
+        }
+    }
+
+    public static class TestZero {
+        public static void main(String[] args){
+            double a = 0;
+            if (a != 0 ){
+                System.out.println(111);
+            }else {
+                System.out.println(22);
+            }
         }
     }
 }

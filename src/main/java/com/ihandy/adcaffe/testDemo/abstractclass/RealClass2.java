@@ -1,4 +1,4 @@
-package abstractclass;
+package com.ihandy.adcaffe.testDemo.abstractclass;
 
 public class RealClass2 extends AbstractClass{
     public RealClass2(int key, String value){

@@ -1,4 +1,4 @@
-package clazz;
+package com.ihandy.adcaffe.testDemo.clazz;
 
 
 import java.util.Arrays;

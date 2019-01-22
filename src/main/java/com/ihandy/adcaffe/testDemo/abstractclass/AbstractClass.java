@@ -1,4 +1,4 @@
-package abstractclass;
+package com.ihandy.adcaffe.testDemo.abstractclass;
 
 public abstract class AbstractClass {
 
