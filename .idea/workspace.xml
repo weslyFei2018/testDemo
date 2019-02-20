@@ -4,9 +4,8 @@
     <list default="true" id="98685eac-0235-47a9-b72e-b2476e96c220" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/TestDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/TestDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/abstractclass/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/abstractclass/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/service/AsyncService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/service/AsyncService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/config/TaskPoolConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/config/TaskPoolConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/ihandy/adcaffe/testDemo/TestDemoApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ihandy/adcaffe/testDemo/TestDemoApplicationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,48 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/TestDemoApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/threadPoolExecutor/CustomThreadPoolExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-79">
-              <caret line="21" column="35" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1229#1230#0" expanded="true" />
-                <element signature="e#1261#1262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ihandy/adcaffe/testDemo/TestDemoApplicationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="51" column="59" lean-forward="true" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="329">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -69,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/controller/AsyncController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="53" lean-forward="true" selection-start-column="53" selection-end-column="53" />
+            <state relative-caret-position="-315">
+              <caret column="53" selection-start-column="53" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/config/TaskPoolConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="225">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +54,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/service/AsyncService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="135">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1059#1060#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1169#1170#0" expanded="true" />
+                <element signature="e#1224#1225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/callable/CallableDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1140#1141#0" expanded="true" />
+                <element signature="e#1168#1169#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/clazz/Test01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,13 +94,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ihandy/adcaffe/testDemo/ComputeThreadPoolTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/clazz/TestClazz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="15" column="45" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="45" />
+            <state relative-caret-position="90">
+              <caret line="7" column="60" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/httpAsyncClient/AsyncClientHttpExchange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/httpAsyncClient/AsyncClientHttpExchangeFutureCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -150,7 +162,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/jms/consumer/Consumer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/jms/consumer/Consumer2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/jms/producer/Producer1.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/jms/producer/Producer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/clazz/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/schedule/DynamicSchedule.java" />
@@ -161,10 +172,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/service/AsyncService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/controller/AsyncController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/controller/AsyncController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/service/AsyncService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ihandy/adcaffe/testDemo/ComputeThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/service/AsyncService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/ihandy/adcaffe/testDemo/TestDemoApplicationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/config/TaskPoolConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/callable/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/httpAsyncClient/AsyncClientHttpExchange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/httpAsyncClient/AsyncClientHttpExchangeFutureCallback.java" />
       </list>
     </option>
   </component>
@@ -258,6 +273,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="clazz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -268,6 +292,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="testDemo" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="httpAsyncClient" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -334,7 +367,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550286117133" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550650173438" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -371,13 +404,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestDemoApplicationTest.testAsyncReturn">
-    <configuration name="ComputeThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ihandy.adcaffe.testDemo.ComputeThreadPoolTest" />
+  <component name="RunManager" selected="Application.AsyncClientHttpExchangeFutureCallback">
+    <configuration name="AsyncClientHttpExchange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ihandy.adcaffe.testDemo.httpAsyncClient.AsyncClientHttpExchange" />
       <module name="testDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ihandy.adcaffe.testDemo.*" />
+          <option name="PATTERN" value="com.ihandy.adcaffe.testDemo.httpAsyncClient.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -385,12 +418,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomThreadPoolExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ihandy.adcaffe.testDemo.threadPoolExecutor.CustomThreadPoolExecutor" />
+    <configuration name="AsyncClientHttpExchangeFutureCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ihandy.adcaffe.testDemo.httpAsyncClient.AsyncClientHttpExchangeFutureCallback" />
       <module name="testDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ihandy.adcaffe.testDemo.threadPoolExecutor.*" />
+          <option name="PATTERN" value="com.ihandy.adcaffe.testDemo.httpAsyncClient.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,12 +431,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ihandy.adcaffe.testDemo.abstractclass.Test" />
+    <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ihandy.adcaffe.testDemo.callable.CallableDemo" />
       <module name="testDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ihandy.adcaffe.testDemo.abstractclass.*" />
+          <option name="PATTERN" value="com.ihandy.adcaffe.testDemo.callable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,7 +444,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemoApplicationTest.asyn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestDemoApplicationTest.testAdync" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testDemo" />
       <extension name="coverage">
         <pattern>
@@ -421,7 +454,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.ihandy.adcaffe.testDemo" />
       <option name="MAIN_CLASS_NAME" value="com.ihandy.adcaffe.testDemo.TestDemoApplicationTest" />
-      <option name="METHOD_NAME" value="asyn" />
+      <option name="METHOD_NAME" value="testAdync" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -451,20 +484,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.CustomThreadPoolExecutor" />
       <item itemvalue="Spring Boot.TestDemoApplication" />
-      <item itemvalue="JUnit.TestDemoApplicationTest.asyn" />
       <item itemvalue="JUnit.TestDemoApplicationTest.testAsyncReturn" />
-      <item itemvalue="Application.ComputeThreadPoolTest" />
+      <item itemvalue="JUnit.TestDemoApplicationTest.testAdync" />
+      <item itemvalue="Application.CallableDemo" />
+      <item itemvalue="Application.AsyncClientHttpExchange" />
+      <item itemvalue="Application.AsyncClientHttpExchangeFutureCallback" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsyncClientHttpExchangeFutureCallback" />
+        <item itemvalue="Application.AsyncClientHttpExchange" />
+        <item itemvalue="Application.CallableDemo" />
+        <item itemvalue="JUnit.TestDemoApplicationTest.testAdync" />
         <item itemvalue="JUnit.TestDemoApplicationTest.testAsyncReturn" />
-        <item itemvalue="Application.ComputeThreadPoolTest" />
-        <item itemvalue="JUnit.TestDemoApplicationTest.asyn" />
-        <item itemvalue="Application.CustomThreadPoolExecutor" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -485,14 +518,11 @@
       <workItem from="1545015280776" duration="344000" />
       <workItem from="1545038681956" duration="7693000" />
       <workItem from="1547550921194" duration="11320000" />
-      <workItem from="1550201673808" duration="11365000" />
+      <workItem from="1550201673808" duration="18496000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestDemoApplicationTest_testAsyncReturn - 2019.02.15 at 16h 12m 24s.xml">
-      <configuration name="TestDemoApplicationTest.testAsyncReturn" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestDemoApplicationTest_testAsyncReturn - 2019.02.15 at 16h 14m 37s.xml">
       <configuration name="TestDemoApplicationTest.testAsyncReturn" configurationId="JUnit" />
     </history-entry>
@@ -520,9 +550,12 @@
     <history-entry file="TestDemoApplicationTest_testAsyncReturn - 2019.02.15 at 18h 05m 09s.xml">
       <configuration name="TestDemoApplicationTest.testAsyncReturn" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestDemoApplicationTest_testAdync - 2019.02.16 at 11h 48m 39s.xml">
+      <configuration name="TestDemoApplicationTest.testAdync" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49096000" />
+    <option name="totallyTimeSpent" value="56227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -599,16 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="170" column="18" selection-start-line="170" selection-start-column="18" selection-end-line="170" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/clazz/TestClazz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,16 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/clazz/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/abstractclass/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -872,13 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/service/AsyncService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -889,7 +895,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/TestDemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -960,10 +966,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/service/AsyncService.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ihandy/adcaffe/testDemo/TestDemoApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="748">
+          <caret line="67" column="43" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -972,31 +978,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/controller/AsyncController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="53" lean-forward="true" selection-start-column="53" selection-end-column="53" />
+        <state relative-caret-position="-315">
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/ihandy/adcaffe/testDemo/TestDemoApplicationTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ExecutorConfigurationSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="51" column="59" lean-forward="true" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="245">
+          <caret line="168" column="16" selection-start-line="168" selection-start-column="16" selection-end-line="168" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/config/TaskPoolConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/async/service/AsyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/clazz/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/clazz/TestClazz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/callable/CallableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.jar!/org/apache/http/util/EntityUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="169" column="25" selection-start-line="169" selection-start-column="25" selection-end-line="169" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/httpAsyncClient/AsyncClientHttpExchange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ihandy/adcaffe/testDemo/httpAsyncClient/AsyncClientHttpExchangeFutureCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
         </state>
       </provider>
     </entry>

@@ -23,6 +23,7 @@ public class TaskPoolConfig {
 
         executor.setWaitForTasksToCompleteOnShutdown(true);
         executor.setAwaitTerminationSeconds(60);
+        //executor.initialize();
         return executor;
     }
 }

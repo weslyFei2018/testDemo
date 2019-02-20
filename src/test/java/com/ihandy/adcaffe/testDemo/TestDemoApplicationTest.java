@@ -60,4 +60,12 @@ public class TestDemoApplicationTest {
         System.out.println(("data:"+response));
         System.out.println(("消耗时间:"+String.format("任务执行成功,耗时{%s}毫秒", System.currentTimeMillis() - start)));
     }
+
+    @Test
+    public void testAdync(){
+        for(int i = 0; i < 10; i++){
+            asyncService.executeAsyncTask(i);
+            asyncService.executeAsyncTaskPlus(i);
+        }
+    }
 }
